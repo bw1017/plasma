@@ -3,7 +3,7 @@ a = sym('x');
 b = syms('y');
 c = syms('z');
 
-w = x + y + z
+w = x + y + z + hhh
 
 
 end
